@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36594
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederick_Knight
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38891#The-Cruise-of-the-Alerte-The-narrative-of-a-search-for-treasure-on-the-desert-island-of-Trini_
 gutenberg_issued: '2012-02-15'
 gutenberg_type: Text
 identifiers:
